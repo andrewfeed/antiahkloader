@@ -17,7 +17,7 @@
 ### Настройка ###
 О том, как их использовать можно посмотреть в видеоролике ниже.  
   
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SPETB4o1xS0/mqdefault.jpg)](https://www.youtube.com/watch?v=SPETB4o1xS0)
+[![](https://img.youtube.com/vi/SPETB4o1xS0/mqdefault.jpg)](https://www.youtube.com/watch?v=SPETB4o1xS0)
 ### За это можно получить блокировку VAC? ###
 Скорее всего нет, потому что программа никак не взаимодействует с процессом доты и не изменяет её файлы. По крайней мере мне не известно хотя бы об одном случае блокировки из-за этого софта.  
   
